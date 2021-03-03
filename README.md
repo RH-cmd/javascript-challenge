@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 
 ![nasa](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/images/nasa.jpg)
 

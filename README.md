@@ -1,6 +1,8 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-Deployed Github page [linked here](https://rh-cmd.github.io/javascript-challenge/)
+![nasa](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/images/nasa.jpg)
+
+Deployed Github page [linked here.](https://rh-cmd.github.io/javascript-challenge/)
 
 ## Background
 

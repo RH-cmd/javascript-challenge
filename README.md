@@ -1,8 +1,12 @@
 # JavaScript and DOM Manipulation
+# Deployed Github page [linked here.](https://rh-cmd.github.io/javascript-challenge/)
 
 ![nasa](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/images/nasa.jpg)
 
-Deployed Github page [linked here.](https://rh-cmd.github.io/javascript-challenge/)
+## Folders Directory
+* [App.js file holding the Javascript code to the website](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/js/app.js)
+* [Style.css file holding the css code](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/css/style.css)
+* [Index.html holding the html code for the website](https://github.com/RH-cmd/javascript-challenge/blob/main/index.html)
 
 ## Background
 

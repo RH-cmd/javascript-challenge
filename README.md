@@ -1,12 +1,16 @@
 # JavaScript and DOM Manipulation
-# Deployed Github page [linked here.](https://rh-cmd.github.io/javascript-challenge/)
+## Deployed Github page [linked here.](https://rh-cmd.github.io/javascript-challenge/)
 
 ![nasa](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/images/nasa.jpg)
 
-## Folders Directory
-* [App.js file holding the Javascript code to the website](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/js/app.js)
-* [Style.css file holding the css code](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/css/style.css)
-* [Index.html holding the html code for the website](https://github.com/RH-cmd/javascript-challenge/blob/main/index.html)
+### Folders Directory
+* [Javascript code](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/js/app.js)
+* [CSS code](https://github.com/RH-cmd/javascript-challenge/blob/main/UFO-level-1/static/css/style.css)
+* [HTML code](https://github.com/RH-cmd/javascript-challenge/blob/main/index.html)
+
+### Dataset
+
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
 
 ## Background
 
@@ -26,6 +30,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-### Dataset
-
-* [UFO Sightings Data](UFO-level-1/static/js/data.js)

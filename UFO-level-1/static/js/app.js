@@ -26,11 +26,15 @@ function UFOtable() {tableData.map (data => {
 // Show the table
 UFOtable();
 
-// Add event listener for button on Filter Search
+// Add event listener for button on Filter Search that works on both click and pressing enter
 var inputFilter = d3.select('#filter-btn');
+var inputFilter2 = d3.select('form')
+
+inputFilter.on("click", filterTable)
+inputFilter2.on("submit", filterTable)
 
 // Create a function to take the input from the Filter Search and recreate table
-inputFilter.on('click', function () {
+function filterTable() {
 
     // Stop page from refreshing
     d3.event.preventDefault();
@@ -61,12 +65,4 @@ inputFilter.on('click', function () {
         newRow.append('td').text(ufo.durationMinutes);
         newRow.append('td').text(ufo.comments);
     });
-});
-
-// Add event listener to unfilter the table and return the original default 
-var defaultButton = d3.select('#unfilter-btn');
-
-defaultButton.on('click', function() {
-    tbody.html("");
-    UFOtable();
-});
+};
